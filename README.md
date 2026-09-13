@@ -1,6 +1,6 @@
 # 🏦 Bank Loan Portfolio Performance & Risk Analysis (Excel Dashboard)
 
-An end-to-end data analytics project using **Microsoft Excel** to evaluate a bank loan portfolio of **38,576 loan applications** totaling **$435.76M** in funded capital[cite: 3]. This project tracks core lending KPIs, analyzes month-over-month (MoM) originations, and segments portfolio credit risk across Good Loans vs. Bad Loans[cite: 2, 3].
+An end-to-end Dynamic Dashboard data analytics project using **Microsoft Excel** to evaluate a bank loan portfolio of **38,576 loan applications** totaling **$435.76M** in funded capital[cite: 3]. This project tracks core lending KPIs, analyzes month-over-month (MoM) originations, and segments portfolio credit risk across Good Loans vs. Bad Loans[cite: 2, 3].
 
 ---
 
